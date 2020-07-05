@@ -1,4 +1,22 @@
 body{
-    background-image: url(../images/bg1.jpg);
+    background: url(../images/closeup-photography-of-adult-short-coated-tan-and-white-dog-731022.jpg)
+    no-repeat center center fixed ;
+    background-size: cover;
+ 
+}
+
+h1{
+    color: black;
+    text-align: center;
+    width:500px;
     
+    margin:0 auto;  
+    /* 0 is margin from top and bottom and auto from left and rigt  */
+    margin-top: 300px;
+    padding: 8px;
+    font-family: 'Suez One', serif;
+    font-size: 3em;
+}
+i{
+    color: brown;
 }
